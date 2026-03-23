@@ -1,0 +1,4 @@
+Roku Device has a screensaver feature. The user can configure inactivity timeout
+after which the configured screensaver starts running on the TV.
+The minimum inactivity time is 1 minute. Zero means it is disabled.
+The default is 30 minutes.

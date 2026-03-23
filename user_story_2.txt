@@ -1,0 +1,1 @@
+Roku device has to have a default Roku wallpaper. TO change the wallpaper, user goes to Settings -> Wallpaper and choose between the 5 wallpapers provided currently.After choosing, the default wallpaper should be set.
